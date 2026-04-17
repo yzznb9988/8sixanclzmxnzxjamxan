@@ -542,5 +542,75 @@
       ],
       "created_at": "2026-04-17T14:50:20.357Z"
     }
+  ],
+  "tasks": [
+    {
+      "id": 1776439710559,
+      "streamer_id": 1776436117982,
+      "operator_id": 1776436642303,
+      "task_name": "封面",
+      "task_description": "",
+      "status": "completed",
+      "priority": "normal",
+      "deadline": "2026-04-16T00:00:00.000Z",
+      "review_status": "not_required",
+      "attachments": [],
+      "source": "template",
+      "template_id": 1776439705811,
+      "template_name": "1-3天",
+      "history": [
+        {
+          "action": "auto_created_by_template",
+          "operator": "system",
+          "time": "2026-04-17T15:28:25.811Z",
+          "comment": "1-3天"
+        },
+        {
+          "action": "status_changed",
+          "operator": "user",
+          "time": "2026-04-17T15:30:00.042Z",
+          "from": "todo",
+          "to": "completed",
+          "comment": ""
+        }
+      ],
+      "created_at": "2026-04-17T15:28:25.811Z",
+      "updated_at": "2026-04-17T15:30:00.042Z",
+      "completed_at": "2026-04-17T15:30:00.042Z"
+    },
+    {
+      "id": 1776439712979,
+      "streamer_id": 1776436117988,
+      "operator_id": null,
+      "task_name": "封面",
+      "task_description": "",
+      "status": "completed",
+      "priority": "normal",
+      "deadline": "2026-04-18T00:00:00.000Z",
+      "review_status": "not_required",
+      "attachments": [],
+      "source": "template",
+      "template_id": 1776439705811,
+      "template_name": "1-3天",
+      "history": [
+        {
+          "action": "auto_created_by_template",
+          "operator": "system",
+          "time": "2026-04-17T15:28:25.812Z",
+          "comment": "1-3天"
+        },
+        {
+          "action": "status_changed",
+          "operator": "user",
+          "time": "2026-04-17T15:30:39.707Z",
+          "from": "todo",
+          "to": "completed",
+          "comment": ""
+        }
+      ],
+      "created_at": "2026-04-17T15:28:25.812Z",
+      "updated_at": "2026-04-17T15:30:39.707Z",
+      "completed_at": "2026-04-17T15:30:39.707Z"
+    }
   ]
 }
